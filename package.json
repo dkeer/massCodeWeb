@@ -40,7 +40,7 @@
   "dependencies": {
     "@iconscout/unicons": "^4.0.1",
     "@masscode/json-server": "^0.18.0",
-    "@prettier/plugin-php": "^0.18.4",
+    "@prettier/plugin-php": "^0.19.2",
     "@prettier/plugin-pug": "^2.0.0",
     "@prettier/plugin-xml": "^2.1.0",
     "@sipec/vue3-tags-input": "^3.0.4",
