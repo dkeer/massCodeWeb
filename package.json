@@ -76,7 +76,7 @@
     "vercel-toast": "^1.5.5",
     "vue": "^3.2.33",
     "vue-router": "^4.0.14",
-    "vue3-perfect-scrollbar": "^1.6.0"
+    "vue3-perfect-scrollbar": "^2.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^15.0.0",
