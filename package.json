@@ -38,7 +38,7 @@
     ]
   },
   "dependencies": {
-    "@iconscout/unicons": "^4.0.1",
+    "@iconscout/unicons": "^4.2.0",
     "@masscode/json-server": "^0.18.0",
     "@prettier/plugin-php": "^0.18.4",
     "@prettier/plugin-pug": "^2.0.0",
@@ -46,7 +46,7 @@
     "@sipec/vue3-tags-input": "^3.0.4",
     "@types/universal-analytics": "^0.4.5",
     "@vueuse/core": "^8.3.1",
-    "axios": "^0.26.1",
+    "axios": "^1.13.5",
     "codemirror": "^5.65.7",
     "codemirror-textmate": "^1.1.0",
     "date-fns": "^2.28.0",
